@@ -1,0 +1,29 @@
+{
+  "name": "nodekb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "bcrypto": "0.0.0",
+    "body-parser": "^1.18.2",
+    "bower": "^1.8.2",
+    "connect-flash": "^0.1.1",
+    "crypto": "^1.0.1",
+    "express": "^4.16.2",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.15.6",
+    "express-validator": "^4.3.0",
+    "keygenerator": "^1.0.4",
+    "mongoose": "^4.10.8",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "path": "^0.12.7",
+    "pug": "^2.0.0-rc.4"
+  }
+}
